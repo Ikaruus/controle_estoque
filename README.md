@@ -4,6 +4,35 @@ Sistema de gerenciamento de estoque desenvolvido com **FastAPI**, seguindo arqui
 
 ---
 
+## 🎯 Contexto de Negócio (Simulação Real)
+📌 Pedido da Área Comercial / Operações
+
+A empresa enfrenta dificuldades para:
+
+- Controlar produtos disponíveis em estoque
+- Evitar vendas de itens indisponíveis
+- Ter visibilidade rápida da quantidade atual
+- Reduzir erros manuais em planilhas
+- Centralizar informações em um único sistema
+
+Atualmente, o controle é feito de forma manual (Excel), o que gera:
+
+- Inconsistência de dados
+- Falta de rastreabilidade
+- Retrabalho
+- Risco de prejuízo por falhas operacionais
+
+💡 Solução Proposta
+
+Desenvolvimento de uma API REST com interface web integrada, permitindo:
+
+- Cadastro estruturado de produtos
+- Armazenamento seguro em banco de dados
+- Organização por arquitetura em camadas
+- Interface simples para uso interno
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - Python 3.14
@@ -66,3 +95,4 @@ Projeto desenvolvido por Dikson Ikaro Araujo Brizolara
 Estudante de Ciência da Computação focado em Backend e Arquitetura de Software.
 
 ⭐ Se este projeto te ajudou ou chamou atenção, deixe uma estrela!
+
